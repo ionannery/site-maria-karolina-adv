@@ -19,10 +19,10 @@ const AboutSection = () => {
                 Sobre Maria Karolina Carvalho
               </h2>
               <p className="text-lg text-text-medium leading-relaxed mb-6">
-                Advogada especialista em direito previdenciário com foco total no atendimento humanizado e na garantia dos direitos das mulheres.
+                Advogada especialista em direito previdenciário e trabalhista com foco total no atendimento humanizado e na garantia dos direitos de cada cliente.
               </p>
               <p className="text-text-medium leading-relaxed">
-                Especialista em Direito Previdenciário e Trabalhista, com sólida experiência na defesa dos direitos dos segurados e trabalhadores. Há mais de 2 anos atua diretamente na concessão e revisão de benefícios previdenciários, bem como na proteção do trabalhador. Comprometida em oferecer soluções jurídicas personalizadas, une conhecimento técnico, dedicação e estratégia para assegurar os melhores resultados aos seus clientes.
+                Sólida experiência na defesa dos direitos dos segurados e trabalhadores. Há mais de 2 anos atua diretamente na concessão e revisão de benefícios previdenciários, bem como na proteção do trabalhador. Comprometida em oferecer soluções jurídicas personalizadas, une conhecimento técnico, dedicação e estratégia para assegurar os melhores resultados aos seus clientes.
               </p>
             </div>
             

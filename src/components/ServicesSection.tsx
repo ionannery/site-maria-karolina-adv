@@ -1,15 +1,8 @@
 import { Search, Calculator, Shield, Heart } from "lucide-react";
-import backgroundImage from "@/assets/foto-02.jpg";
 
 const ServicesSection = () => {
   return (
-    <section className="py-20 relative">
-      <div 
-        className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: `url(${backgroundImage})` }}
-      >
-        <div className="absolute inset-0 bg-text-dark/80"></div>
-      </div>
+    <section className="py-20 bg-text-dark">
       
       <div className="container mx-auto px-6 relative z-10">
         <div className="text-center mb-16">

@@ -16,7 +16,7 @@ const HeroSection = () => {
                 Especialista em Direito Previdenciário
               </h2>
               <blockquote className="text-lg text-text-medium leading-relaxed italic">
-                "É um direito de toda mãe. Meu papel é garantir que a burocracia do INSS não impeça você de receber o apoio financeiro que merece nesse momento tão importante."
+                "Meu papel é garantir que a burocracia do INSS não impeça você de receber os benefícios e a proteção financeira que a lei assegura - Maria Karolina Carvalho, Advogada"
               </blockquote>
             </div>
             

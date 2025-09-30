@@ -14,7 +14,7 @@ const Header = () => {
           variant="outline" 
           size="sm" 
           className="gap-2 bg-primary text-primary-foreground border-primary hover:bg-primary/90"
-          onClick={() => window.open('https://wa.me/558695600304', '_blank')}
+          onClick={() => window.open('https://wa.me/558695600304?text=Ol%C3%A1%2C%20gostaria%20de%20conhecer%20mais%20sobre%20seus%20servi%C3%A7os%20jur%C3%ADdicos.', '_blank')}
         >
           <MessageCircle className="w-4 h-4" />
           WhatsApp

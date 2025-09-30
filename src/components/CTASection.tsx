@@ -59,7 +59,7 @@ const CTASection = () => {
           <Button 
             size="lg" 
             className="bg-primary hover:bg-primary/90 text-primary-foreground px-12 py-6 text-xl gap-3 mb-6"
-            onClick={() => window.open('https://wa.me/558695600304', '_blank')}
+            onClick={() => window.open('https://wa.me/558695600304?text=Ol%C3%A1%2C%20gostaria%20de%20conhecer%20mais%20sobre%20seus%20servi%C3%A7os%20jur%C3%ADdicos.', '_blank')}
           >
             <MessageCircle className="w-6 h-6" />
             Falar no WhatsApp agora

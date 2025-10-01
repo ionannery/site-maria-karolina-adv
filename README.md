@@ -1,73 +1,77 @@
-# Welcome to your Lovable project
+# Site Profissional - Dra. Maria Karolina Carvalho
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-## Project info
+## 📋 Sobre o Projeto
 
-**URL**: https://lovable.dev/projects/6ff170de-b8b8-4082-9698-0360227a7c94
+Este é o site profissional da Dra. Maria Karolina Carvalho, especialista em Direito Previdenciário. O site foi desenvolvido para fornecer informações sobre seus serviços jurídicos, com foco especial em benefícios de salário-maternidade.
 
-## How can I edit this code?
+### 🎯 Objetivo
 
-There are several ways of editing your application.
+O site tem como objetivo principal conectar a Dra. Maria Karolina com mulheres que buscam auxílio para obter seus benefícios previdenciários, oferecendo:
+- Informações claras sobre serviços jurídicos
+- Canal direto de comunicação via WhatsApp
+- Apresentação profissional e acessível
+- Detalhes sobre processos e prazos importantes
 
-**Use Lovable**
+## 🛠️ Tecnologias Utilizadas
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/6ff170de-b8b8-4082-9698-0360227a7c94) and start prompting.
+O projeto foi desenvolvido utilizando tecnologias modernas e robustas:
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Vite**: Build tool rápida e moderna para projetos web
+- **React**: Biblioteca JavaScript para construção de interfaces
+- **TypeScript**: Adiciona tipagem estática ao JavaScript
+- **Tailwind CSS**: Framework CSS utilitário para estilização
+- **shadcn/ui**: Componentes reutilizáveis e acessíveis
 
-**Use your preferred IDE**
+## 🚀 Funcionalidades
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **Landing Page Responsiva**: Adaptada para todos os dispositivos
+- **Seções Informativas**:
+  - Hero Section com apresentação principal
+  - Sobre a advogada
+  - Serviços oferecidos
+  - Call-to-Action (CTA) para contato
+- **Integração com WhatsApp**: Botão de contato direto
+- **Design Moderno**: Interface limpa e profissional
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
+## 📦 Estrutura do Projeto
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```
+site-maria-karolina-adv/
+├── src/
+│   ├── components/       # Componentes React reutilizáveis
+│   ├── assets/          # Imagens e recursos estáticos
+│   ├── lib/            # Utilitários e funções auxiliares
+│   └── pages/          # Páginas da aplicação
+├── public/             # Arquivos públicos
+└── ...configurações    # Arquivos de configuração
 ```
 
-**Edit a file directly in GitHub**
+## 🔧 Scripts Disponíveis
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- `npm run dev`: Inicia o servidor de desenvolvimento
+- `npm run build`: Cria a versão de produção
+- `npm run preview`: Visualiza a versão de produção localmente
 
-**Use GitHub Codespaces**
+## 📱 Responsividade
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+O site é totalmente responsivo, adaptando-se a diferentes tamanhos de tela:
+- Desktop (1024px+)
+- Tablet (768px - 1023px)
+- Mobile (até 767px)
 
-## What technologies are used for this project?
+## 🌐 SEO e Performance
 
-This project is built with:
+O projeto foi desenvolvido seguindo as melhores práticas de SEO e performance:
+- Meta tags otimizadas
+- Imagens otimizadas
+- Performance otimizada com Vite
+- Código limpo e bem estruturado
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 📄 Licença
 
-## How can I deploy this project?
+Este projeto está sob a licença privada e é de propriedade exclusiva da Dra. Maria Karolina Carvalho.
 
-Simply open [Lovable](https://lovable.dev/projects/6ff170de-b8b8-4082-9698-0360227a7c94) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)

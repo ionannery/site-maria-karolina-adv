@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { MessageCircle, Clock, Headphones, CheckCircle } from "lucide-react";
-import backgroundImage from "@/assets/foto-02.jpg";
+import backgroundImage from "@/assets/foto-03.jpg";
 
 const CTASection = () => {
   return (
